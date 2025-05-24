@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1594.3311"
+   height="400.58301"
+   viewBox="0 0 421.83342 105.98782"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="BAC-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.34876894"
+     inkscape:cx="474.5262"
+     inkscape:cy="139.06055"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="182.06897"
+       y="326.86398"
+       width="582.59308"
+       height="108.95397"
+       id="rect3" />
+    <rect
+       x="182.06897"
+       y="326.86398"
+       width="582.59308"
+       height="108.95397"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#e3e2db;fill-opacity:1;stroke:#d38c5e;stroke-width:0.933507;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       cx="157.03436"
+       cy="47.413898"
+       rx="85.034447"
+       ry="48.620579" />
+    <rect
+       style="fill:#e3e2db;stroke-width:0.106321"
+       id="rect1"
+       width="336.58875"
+       height="49.310345"
+       x="43.241379"
+       y="48.17252" />
+    <circle
+       style="fill:#e3e2db;stroke-width:0.1"
+       id="path1"
+       cx="44"
+       cy="72.82769"
+       r="15.931034" />
+    <circle
+       style="fill:#e3e2db;stroke-width:0.1"
+       id="circle1"
+       cx="378.3129"
+       cy="72.82769"
+       r="15.931034" />
+    <circle
+       style="fill:#e3e2db;stroke-width:0.32500071;stroke:#d38c5e;stroke-opacity:1;stroke-dasharray:none"
+       id="circle2"
+       cx="404.42581"
+       cy="72.638039"
+       r="3.9827583" />
+    <circle
+       style="fill:#e3e2db;stroke-width:0.32500071;stroke:#d38c5e;stroke-opacity:1;stroke-dasharray:none"
+       id="circle3"
+       cx="15.741406"
+       cy="72.638039"
+       r="3.9827583" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.6621442,0,0,0.6621442,-55.641401,-171.67664)"
+       id="text3"
+       style="font-size:74.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#8b4e26;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="383.82353"
+         y="394.80066"
+         id="tspan2"><tspan
+           style="font-family:Gabriola;-inkscape-font-specification:Gabriola"
+           id="tspan1">a CAKE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.6621442,0,0,0.6621442,-54.301732,-171.67664)"
+       id="text4"
+       style="font-size:74.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#d38c5e;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="383.82353"
+         y="394.80066"
+         id="tspan5"><tspan
+           style="font-family:Gabriola;-inkscape-font-specification:Gabriola"
+           id="tspan3">a CAKE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:71.0144px;font-family:Gabriola;-inkscape-font-specification:Gabriola;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#c67b51;stroke:#8b4e26;stroke-width:1.07100235;stroke-dasharray:none;stroke-opacity:1;opacity:1"
+       x="160.54453"
+       y="66.154259"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Satisfy;-inkscape-font-specification:Satisfy;stroke:#8b4e26;stroke-width:1.07100235;stroke-dasharray:none;stroke-opacity:1"
+         x="160.54453"
+         y="66.154259">Bake</tspan></text>
+  </g>
+</svg>
